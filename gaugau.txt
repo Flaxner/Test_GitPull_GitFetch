@@ -1,2 +1,3 @@
 databasele
 fix for 2nd commit
+day la thay doi truc tiep tren github
